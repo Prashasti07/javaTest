@@ -6,7 +6,7 @@ public class MyFirstClass {
 	System.out.println("First Class");
 	System.out.println("Test");
 	System.out.println("New branch commit");
-
+	System.out.println("Feature branch");
 	}
 
 }

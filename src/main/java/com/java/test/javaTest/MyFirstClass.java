@@ -11,7 +11,7 @@ public class MyFirstClass {
 	System.out.println("Learn merge conflict by tool");
 	System.out.println("New line added");
     System.out.println("Akash");
-	System.out.println("Prashasti");
+	System.out.println("Prashasti Porwal");
 	}
 
 }

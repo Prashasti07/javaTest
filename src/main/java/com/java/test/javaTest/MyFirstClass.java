@@ -8,6 +8,8 @@ public class MyFirstClass {
 	System.out.println("New branch commit");
 	System.out.println("Feature branch");
 	System.out.println("Master branch conflict");
+	System.out.println("Learn merge conflict by tool");
+
 	}
 
 }

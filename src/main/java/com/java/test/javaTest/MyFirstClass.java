@@ -11,6 +11,9 @@ public class MyFirstClass {
 	System.out.println("Learn merge conflict by tool");
     System.out.println("Master");
     System.out.println("Master branch conflict");
+	System.out.println("test");
+	System.out.println("Test branch conflict");
+
 	}
 
 }

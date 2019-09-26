@@ -10,7 +10,7 @@ public class MyFirstClass {
 	System.out.println("Master branch conflict");
 	System.out.println("Learn merge conflict by tool");
 	System.out.println("New line added");
-    System.out.println("Akash");
+    System.out.println("Akash Jain");
 	System.out.println("Prashasti Porwal");
 	}
 

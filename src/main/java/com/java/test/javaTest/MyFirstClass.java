@@ -10,12 +10,10 @@ public class MyFirstClass {
 	System.out.println("Master branch conflict");
 	System.out.println("Learn merge conflict by tool");
 	System.out.println("New line added");
-<<<<<<< HEAD
+
     System.out.println("Akash Jain123");
 	System.out.println("Prashasti Porwal");
-=======
-System.out.println("Bhavin");
->>>>>>> parent of 38372ec... Replaced Bhavin with Akash
+
 	}
 
 }

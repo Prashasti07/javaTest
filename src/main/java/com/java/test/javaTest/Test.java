@@ -8,6 +8,7 @@ public class Test {
 		
 		System.out.println("Sum is ====>  "+ c);
 		System.out.println("Test branch");
+		System.out.println("Test branch");
 
 	}
 

@@ -8,13 +8,10 @@ public class Test {
 		
 		System.out.println("Sum is ====>  "+ c);
 		System.out.println("Test branch");
-
 		System.out.println("Master branch");
 		System.out.println("Master merge");
-
 		System.out.println("Feature1 branch");
 		System.out.println("merge feature");
-
 
 	}
 
